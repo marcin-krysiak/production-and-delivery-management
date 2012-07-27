@@ -7,6 +7,7 @@ Firma produkujaca tarcze hamulcowe ma 2 zakłady w Polsce. Kady z zakładów pr
 trzy typy tarcz hamulcowych. Do produkcji potrzebne sa półprodukty, które sa zamawiane u
 trzech dostawców. Niezbedne półprodukty potrzebne do produkcji danego typu tarczy
 hamulcowej podane sa w tabeli poniej.
+
 Pp1 pp2 pp3
 t1 1 10 2
 t2 2 5 5
